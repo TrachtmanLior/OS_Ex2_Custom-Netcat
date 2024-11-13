@@ -1,0 +1,1 @@
+Usage: ./mync -e "<program> <arguments>" 
